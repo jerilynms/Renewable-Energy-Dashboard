@@ -1,5 +1,7 @@
 # Renewable Energy Dashboard
 
+Interactive Dashboard Link: https://jerilynms.github.io/Renewable-Energy-Dashboard/
+
 The data for this dashboard consists of energy consuming sectors, types of renewable energy, consumption in trillions BTU, and year groupings for the timeframe 1973 to 2025. The data was obtained from Kaggle by a user that explained their data cleaning process thoroughly. I reviewed the data for any inconsistencies and found their data very well organized and free of errors.
 
 This dashboard can answer several questions about energy consumption. The first graph on the left is total consumption over time, by sector. We can see that the electric power and transportation sectors increased the most from where they started, with industrial and commercial increasing more modestly. The residential sector appears to have decreased overall consumption. 
